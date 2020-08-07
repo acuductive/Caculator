@@ -12,3 +12,6 @@ elif operation == ("*"):
   print (num1*num2)
 else:
   print ("please try again")
+  
+  # Put this in Replt.it for it to work
+  
